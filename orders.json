@@ -1,0 +1,32 @@
+{
+    "orders": [
+        {
+            "item": "Плита дорожная",
+            "quantity": "100",
+            "price": "27000",
+            "buyer": "Титаева",
+            "date": "17.05.2022"
+        },
+        {
+            "item": "DJI Mavic 3 PRO",
+            "quantity": "1",
+            "price": "500000",
+            "buyer": "Хохлов",
+            "date": "17.05.2023"
+        },
+        {
+            "item": "Плита дорожная",
+            "quantity": "100",
+            "price": "27000",
+            "buyer": "Титаева",
+            "date": "17.05.2022"
+        },
+        {
+            "item": "DJI Mavic 3 PRO",
+            "quantity": "1",
+            "price": "500000",
+            "buyer": "Хохлов",
+            "date": "17.05.2023"
+        }
+    ]
+}
