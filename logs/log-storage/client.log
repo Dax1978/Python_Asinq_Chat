@@ -1,0 +1,68 @@
+2023-06-04 11:08:47,264 - INFO     - log_config_client - Тестовый запуск логирования 
+2023-06-04 11:08:47,264 - CRITICAL - log_config_client - Критическая ошибка 
+2023-06-04 11:08:47,264 - ERROR    - log_config_client - Ошибка 
+2023-06-04 11:08:47,264 - DEBUG    - log_config_client - Отладочная информация 
+2023-06-04 11:08:47,265 - INFO     - log_config_client - Информационное сообщение 
+2023-06-04 12:46:19,052 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 12:52:52,513 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 12:53:30,084 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 12:54:05,017 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 12:54:07,700 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 12:54:08,515 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 12:56:09,135 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 12:57:44,816 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 12:59:47,139 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 13:02:29,544 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 13:02:29,544 - INFO     - utils    - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777 
+2023-06-04 13:02:29,545 - DEBUG    - log_decos - Была вызвана функция get_addr_port c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:02:31,570 - CRITICAL - client   - Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение. 
+2023-06-04 13:06:09,537 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 13:06:09,537 - INFO     - utils    - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777 
+2023-06-04 13:06:09,538 - DEBUG    - log_decos - Была вызвана функция get_addr_port c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,540 - DEBUG    - client   - Сформировано presence сообщение для пользователя Guest 
+2023-06-04 13:06:09,542 - DEBUG    - log_decos - Была вызвана функция create_presence c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,547 - DEBUG    - log_decos - Была вызвана функция send_message c параметрами (<socket.socket fd=356, family=2, type=1, proto=0, laddr=('127.0.0.1', 57420), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1685873169.5398774, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,551 - DEBUG    - log_decos - Была вызвана функция get_message c параметрами (<socket.socket fd=356, family=2, type=1, proto=0, laddr=('127.0.0.1', 57420), raddr=('127.0.0.1', 7777)>,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,553 - DEBUG    - client   - Разбор сообщения от сервера: {'response': 200} 
+2023-06-04 13:06:09,553 - DEBUG    - log_decos - Была вызвана функция process_ans c параметрами ({'response': 200},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,554 - INFO     - client   - Принят ответ от сервера 200 : OK 
+2023-06-04 13:06:09,561 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 13:06:09,565 - INFO     - utils    - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777 
+2023-06-04 13:06:09,567 - DEBUG    - log_decos - Была вызвана функция get_addr_port c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,569 - DEBUG    - client   - Сформировано presence сообщение для пользователя Guest 
+2023-06-04 13:06:09,571 - DEBUG    - log_decos - Была вызвана функция create_presence c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,572 - DEBUG    - log_decos - Была вызвана функция send_message c параметрами (<socket.socket fd=384, family=2, type=1, proto=0, laddr=('127.0.0.1', 57421), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1685873169.5695078, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,581 - DEBUG    - log_decos - Была вызвана функция get_message c параметрами (<socket.socket fd=384, family=2, type=1, proto=0, laddr=('127.0.0.1', 57421), raddr=('127.0.0.1', 7777)>,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,582 - DEBUG    - client   - Разбор сообщения от сервера: {'response': 200} 
+2023-06-04 13:06:09,583 - DEBUG    - log_decos - Была вызвана функция process_ans c параметрами ({'response': 200},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,583 - INFO     - client   - Принят ответ от сервера 200 : OK 
+2023-06-04 13:06:09,595 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 13:06:09,597 - INFO     - utils    - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777 
+2023-06-04 13:06:09,598 - DEBUG    - log_decos - Была вызвана функция get_addr_port c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,599 - DEBUG    - client   - Сформировано presence сообщение для пользователя Guest 
+2023-06-04 13:06:09,600 - DEBUG    - log_decos - Была вызвана функция create_presence c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,603 - DEBUG    - log_decos - Была вызвана функция send_message c параметрами (<socket.socket fd=356, family=2, type=1, proto=0, laddr=('127.0.0.1', 57422), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1685873169.599723, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,607 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 13:06:09,607 - INFO     - utils    - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777 
+2023-06-04 13:06:09,609 - DEBUG    - log_decos - Была вызвана функция get_message c параметрами (<socket.socket fd=356, family=2, type=1, proto=0, laddr=('127.0.0.1', 57422), raddr=('127.0.0.1', 7777)>,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,609 - DEBUG    - log_decos - Была вызвана функция get_addr_port c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,609 - DEBUG    - client   - Разбор сообщения от сервера: {'response': 200} 
+2023-06-04 13:06:09,609 - DEBUG    - client   - Сформировано presence сообщение для пользователя Guest 
+2023-06-04 13:06:09,610 - DEBUG    - log_decos - Была вызвана функция process_ans c параметрами ({'response': 200},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,610 - INFO     - client   - Принят ответ от сервера 200 : OK 
+2023-06-04 13:06:09,610 - DEBUG    - log_decos - Была вызвана функция create_arg_parser c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции get_addr_port 
+2023-06-04 13:06:09,610 - DEBUG    - log_decos - Была вызвана функция create_presence c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,611 - INFO     - utils    - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777 
+2023-06-04 13:06:09,612 - DEBUG    - log_decos - Была вызвана функция send_message c параметрами (<socket.socket fd=400, family=2, type=1, proto=0, laddr=('127.0.0.1', 57423), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1685873169.6099477, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,612 - DEBUG    - log_decos - Была вызвана функция get_addr_port c параметрами (False,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,613 - DEBUG    - client   - Сформировано presence сообщение для пользователя Guest 
+2023-06-04 13:06:09,614 - DEBUG    - log_decos - Была вызвана функция create_presence c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,615 - DEBUG    - log_decos - Была вызвана функция send_message c параметрами (<socket.socket fd=312, family=2, type=1, proto=0, laddr=('127.0.0.1', 57424), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1685873169.613948, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,616 - DEBUG    - log_decos - Была вызвана функция get_message c параметрами (<socket.socket fd=400, family=2, type=1, proto=0, laddr=('127.0.0.1', 57423), raddr=('127.0.0.1', 7777)>,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,617 - DEBUG    - client   - Разбор сообщения от сервера: {'response': 200} 
+2023-06-04 13:06:09,618 - DEBUG    - log_decos - Была вызвана функция process_ans c параметрами ({'response': 200},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,618 - INFO     - client   - Принят ответ от сервера 200 : OK 
+2023-06-04 13:06:09,628 - DEBUG    - log_decos - Была вызвана функция get_message c параметрами (<socket.socket fd=312, family=2, type=1, proto=0, laddr=('127.0.0.1', 57424), raddr=('127.0.0.1', 7777)>,), {}. Вызов из модуля chat_utils.utils. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,628 - DEBUG    - client   - Разбор сообщения от сервера: {'response': 200} 
+2023-06-04 13:06:09,630 - DEBUG    - log_decos - Была вызвана функция process_ans c параметрами ({'response': 200},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main 
+2023-06-04 13:06:09,630 - INFO     - client   - Принят ответ от сервера 200 : OK 
